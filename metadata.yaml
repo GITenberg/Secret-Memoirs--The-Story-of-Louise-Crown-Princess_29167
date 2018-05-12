@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33735'
     url: http://www.gutenberg.org/2009/agents/33735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29167#Secret-Memoirs--The-Story-of-Louise-Crown-Princess
 gutenberg_issued: '2009-06-19'
 gutenberg_type: Text
 identifiers:
